@@ -7,10 +7,11 @@
     "template",
     "create-component"
   ],
+  "author": "BananaBb",
   "description": "This repository contains a template for npm library develop.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bbNPM/cra-template-bb-lib-temp",
+    "url": "https://github.com/bbNPM/cra-template-bb-lib-temp"
   },
   "license": "MIT",
   "engines": {

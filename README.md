@@ -14,4 +14,19 @@ These instructions will get you to build react component by this template. See I
 npx create-react-app example --template bb-lib-temp
 cd {YourProject}
 npm start
+# For testing
 ```
+
+### Launch
+Please comment below code in `index.js` before launch
+```
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+ReactDOM.render(
+  ...
+  document.getElementById('root')
+);
+```
+Also un-comment the `export{...}`
+And your components should be developed in components folder.

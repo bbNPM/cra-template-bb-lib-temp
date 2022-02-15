@@ -12,6 +12,8 @@ These instructions will get you to build react component by this template. See I
 ### Usage
 ```
 npx create-react-app example --template bb-lib-temp
+# ---------- OR ---------- #
+npx create-react-app example --template file:../path/to/your/template/cra-template-[template-name]
 cd {YourProject}
 npm start
 # For testing
